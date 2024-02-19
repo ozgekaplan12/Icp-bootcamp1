@@ -1,6 +1,3 @@
-// Cargo.toml dosyasına aşağıdaki bağımlılığı ekleyin:
-// [dependencies]
-// reqwest = "0.11"
 
 use reqwest::Client;
 
